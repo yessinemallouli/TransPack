@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TransPack</string>
+    <string-array name="cities">
+        <item>Tunis</item>
+        <item>Sfax</item>
+        <item>Djerba</item>
+        <item>Bizerte</item>
+        <item>Nabeul</item>
+        <item>Sousse</item>
+        <item>Tozeur</item>
+        <item>Monastir</item>
+        <item>Kairouan</item>
+        <item>Douz</item>
+        <item>Mahdia</item>
+        <item>Matmata</item>
+        <item>Tabarka</item>+
+        <item>Tataouine</item>
+        <item>Gabés</item>
+        <item>Gafsa</item>
+        <item>Nefta</item>
+        <item>Zaghouan</item>
+        <item>Le Kef</item>
+        <item>Aïn Draham</item>
+
+
+
+    </string-array>
+</resources>

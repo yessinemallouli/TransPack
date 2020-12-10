@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062304889117",
+    "firebase_url": "https://transpack-6a923.firebaseio.com",
+    "project_id": "transpack-6a923",
+    "storage_bucket": "transpack-6a923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062304889117:android:4f6d09f9bf0151b59149f4",
+        "android_client_info": {
+          "package_name": "com.example.transpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062304889117-s4k4aqcc6ahi040j3pmpap3tumf1kapt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transpack",
+            "certificate_hash": "9bf52d4db2a59e22ae156e57acdc0ddef59d800b"
+          }
+        },
+        {
+          "client_id": "1062304889117-mgbandt5406lc9u7skiq4olu3q90f051.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3wFJFhCU7Y7VHw6OWn0kDDW3YpeZFfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062304889117-mgbandt5406lc9u7skiq4olu3q90f051.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
